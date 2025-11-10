@@ -1,0 +1,282 @@
+[
+    {
+        "name": "Worker_Painting_1",
+        "category": "Painting",
+        "skills": "Watercolor, Oil painting",
+        "service_description": "Fake Painting service",
+        "assigned_service_id": 273
+    },
+    {
+        "name": "Worker_Painting_2",
+        "category": "Painting",
+        "skills": "Watercolor, Wall painting",
+        "service_description": "Fake Painting service",
+        "assigned_service_id": 273
+    },
+    {
+        "name": "Worker_Painting_3",
+        "category": "Painting",
+        "skills": "Wall painting, Oil painting",
+        "service_description": "Fake Painting service",
+        "assigned_service_id": 273
+    },
+    {
+        "name": "Worker_Painting_4",
+        "category": "Painting",
+        "skills": "Wall painting, Oil painting",
+        "service_description": "Fake Painting service",
+        "assigned_service_id": 273
+    },
+    {
+        "name": "Worker_Painting_5",
+        "category": "Painting",
+        "skills": "Wall painting, Watercolor",
+        "service_description": "Fake Painting service",
+        "assigned_service_id": 273
+    },
+    {
+        "name": "Worker_Carpentry_1",
+        "category": "Carpentry",
+        "skills": "Furniture making, Cabinet installation",
+        "service_description": "Fake Carpentry service",
+        "assigned_service_id": 176
+    },
+    {
+        "name": "Worker_Carpentry_2",
+        "category": "Carpentry",
+        "skills": "Cabinet installation, Furniture making",
+        "service_description": "Fake Carpentry service",
+        "assigned_service_id": 176
+    },
+    {
+        "name": "Worker_Carpentry_3",
+        "category": "Carpentry",
+        "skills": "Furniture making, Cabinet installation",
+        "service_description": "Fake Carpentry service",
+        "assigned_service_id": 176
+    },
+    {
+        "name": "Worker_Carpentry_4",
+        "category": "Carpentry",
+        "skills": "Cabinet installation, Woodwork",
+        "service_description": "Fake Carpentry service",
+        "assigned_service_id": 176
+    },
+    {
+        "name": "Worker_Carpentry_5",
+        "category": "Carpentry",
+        "skills": "Furniture making, Woodwork",
+        "service_description": "Fake Carpentry service",
+        "assigned_service_id": 176
+    },
+    {
+        "name": "Worker_Plumbing_1",
+        "category": "Plumbing",
+        "skills": "Leak fixing, Drain cleaning",
+        "service_description": "Fake Plumbing service",
+        "assigned_service_id": 465
+    },
+    {
+        "name": "Worker_Plumbing_2",
+        "category": "Plumbing",
+        "skills": "Drain cleaning, Leak fixing",
+        "service_description": "Fake Plumbing service",
+        "assigned_service_id": 465
+    },
+    {
+        "name": "Worker_Plumbing_3",
+        "category": "Plumbing",
+        "skills": "Drain cleaning, Leak fixing",
+        "service_description": "Fake Plumbing service",
+        "assigned_service_id": 465
+    },
+    {
+        "name": "Worker_Plumbing_4",
+        "category": "Plumbing",
+        "skills": "Leak fixing, Drain cleaning",
+        "service_description": "Fake Plumbing service",
+        "assigned_service_id": 465
+    },
+    {
+        "name": "Worker_Plumbing_5",
+        "category": "Plumbing",
+        "skills": "Drain cleaning, Pipe fitting",
+        "service_description": "Fake Plumbing service",
+        "assigned_service_id": 465
+    },
+    {
+        "name": "Worker_Gardening_1",
+        "category": "Gardening",
+        "skills": "Plant watering, Lawn care",
+        "service_description": "Gardening, lawn and plant care",
+        "assigned_service_id": 90
+    },
+    {
+        "name": "Worker_Gardening_2",
+        "category": "Gardening",
+        "skills": "Plant watering, Hedge trimming",
+        "service_description": "Gardening, lawn and plant care",
+        "assigned_service_id": 90
+    },
+    {
+        "name": "Worker_Gardening_3",
+        "category": "Gardening",
+        "skills": "Lawn care, Hedge trimming",
+        "service_description": "Gardening, lawn and plant care",
+        "assigned_service_id": 90
+    },
+    {
+        "name": "Worker_Gardening_4",
+        "category": "Gardening",
+        "skills": "Hedge trimming, Lawn care",
+        "service_description": "Gardening, lawn and plant care",
+        "assigned_service_id": 90
+    },
+    {
+        "name": "Worker_Gardening_5",
+        "category": "Gardening",
+        "skills": "Plant watering, Lawn care",
+        "service_description": "Gardening, lawn and plant care",
+        "assigned_service_id": 90
+    },
+    {
+        "name": "Worker_Cleaning_1",
+        "category": "Cleaning",
+        "skills": "Sanitization, Office cleaning",
+        "service_description": "Professional cleaning services",
+        "assigned_service_id": 70
+    },
+    {
+        "name": "Worker_Cleaning_2",
+        "category": "Cleaning",
+        "skills": "Office cleaning, Sanitization",
+        "service_description": "Professional cleaning services",
+        "assigned_service_id": 70
+    },
+    {
+        "name": "Worker_Cleaning_3",
+        "category": "Cleaning",
+        "skills": "Sanitization, Office cleaning",
+        "service_description": "Professional cleaning services",
+        "assigned_service_id": 70
+    },
+    {
+        "name": "Worker_Cleaning_4",
+        "category": "Cleaning",
+        "skills": "House cleaning, Office cleaning",
+        "service_description": "Professional cleaning services",
+        "assigned_service_id": 70
+    },
+    {
+        "name": "Worker_Cleaning_5",
+        "category": "Cleaning",
+        "skills": "House cleaning, Office cleaning",
+        "service_description": "Professional cleaning services",
+        "assigned_service_id": 70
+    },
+    {
+        "name": "Worker_Electrician_1",
+        "category": "Electrician",
+        "skills": "Electrical repairs, Wiring",
+        "service_description": "Electrical repairs/installations",
+        "assigned_service_id": 120
+    },
+    {
+        "name": "Worker_Electrician_2",
+        "category": "Electrician",
+        "skills": "Wiring, Electrical repairs",
+        "service_description": "Electrical repairs/installations",
+        "assigned_service_id": 120
+    },
+    {
+        "name": "Worker_Electrician_3",
+        "category": "Electrician",
+        "skills": "Wiring, Lighting installation",
+        "service_description": "Electrical repairs/installations",
+        "assigned_service_id": 120
+    },
+    {
+        "name": "Worker_Electrician_4",
+        "category": "Electrician",
+        "skills": "Electrical repairs, Lighting installation",
+        "service_description": "Electrical repairs/installations",
+        "assigned_service_id": 120
+    },
+    {
+        "name": "Worker_Electrician_5",
+        "category": "Electrician",
+        "skills": "Wiring, Lighting installation",
+        "service_description": "Electrical repairs/installations",
+        "assigned_service_id": 120
+    },
+    {
+        "name": "Worker_Plumber_1",
+        "category": "Plumber",
+        "skills": "Drain cleaning, Fixture installation",
+        "service_description": "Plumbing services",
+        "assigned_service_id": 80
+    },
+    {
+        "name": "Worker_Plumber_2",
+        "category": "Plumber",
+        "skills": "Drain cleaning, Fixture installation",
+        "service_description": "Plumbing services",
+        "assigned_service_id": 80
+    },
+    {
+        "name": "Worker_Plumber_3",
+        "category": "Plumber",
+        "skills": "Fixture installation, Drain cleaning",
+        "service_description": "Plumbing services",
+        "assigned_service_id": 80
+    },
+    {
+        "name": "Worker_Plumber_4",
+        "category": "Plumber",
+        "skills": "Drain cleaning, Fixture installation",
+        "service_description": "Plumbing services",
+        "assigned_service_id": 80
+    },
+    {
+        "name": "Worker_Plumber_5",
+        "category": "Plumber",
+        "skills": "Fixture installation, Pipe repair",
+        "service_description": "Plumbing services",
+        "assigned_service_id": 80
+    },
+    {
+        "name": "Worker_Painter_1",
+        "category": "Painter",
+        "skills": "Interior painting, Exterior painting",
+        "service_description": "Wall painting, decor",
+        "assigned_service_id": 273
+    },
+    {
+        "name": "Worker_Painter_2",
+        "category": "Painter",
+        "skills": "Interior painting, Exterior painting",
+        "service_description": "Wall painting, decor",
+        "assigned_service_id": 273
+    },
+    {
+        "name": "Worker_Painter_3",
+        "category": "Painter",
+        "skills": "Wall murals, Exterior painting",
+        "service_description": "Wall painting, decor",
+        "assigned_service_id": 273
+    },
+    {
+        "name": "Worker_Painter_4",
+        "category": "Painter",
+        "skills": "Wall murals, Interior painting",
+        "service_description": "Wall painting, decor",
+        "assigned_service_id": 273
+    },
+    {
+        "name": "Worker_Painter_5",
+        "category": "Painter",
+        "skills": "Interior painting, Exterior painting",
+        "service_description": "Wall painting, decor",
+        "assigned_service_id": 273
+    }
+]
